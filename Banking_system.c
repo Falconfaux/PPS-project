@@ -1,3 +1,6 @@
+/* NAME : ANKIT SHETTY        REG NO :  RA2111003010865    SECTION :  B2       PPS PROJECT   
+        
+                     BANKING SYSTEM                      */
 #include <stdio.h>
 
 struct customer
